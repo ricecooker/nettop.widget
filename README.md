@@ -1,7 +1,7 @@
-# Nettop Widget for Uberschict
+# Nettop Widget for Ubersicht
 
 Widget that behaves similarly to the command line tool nettop to show how
-your computer is using the network.  The widget is for Uberschict, a desktop 
+your computer is using the network.  The widget is for Ubersicht, a desktop 
 widget app for OSX.  Good for the curious or paranoid.
 
 Currently the widget shows:
