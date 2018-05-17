@@ -1,5 +1,6 @@
 # Nettop Widget for Ubersicht
 
+![Screenshot](screenshot.png "Blurred screenshot")
 Widget that behaves similarly to the command line tool nettop to show how
 your computer is using the network.  The widget is for Ubersicht, a desktop 
 widget app for OSX.  Good for the curious or paranoid.
